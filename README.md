@@ -21,16 +21,3 @@ Este projeto é uma aplicação simples feita com Flutter que consome a [PokéAP
 - HTTP (pacote `http`)
 - QR Code (pacote `qr_flutter`)
 
----
-
-## 🖼️ Captura de tela
-
-> ![Screenshot](screenshot.png) <!-- Você pode adicionar um print futuramente -->
-
----
-
-## ▶️ Como rodar o projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/pokedex_app.git
