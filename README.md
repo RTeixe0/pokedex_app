@@ -1,16 +1,36 @@
-# pokedex_app
+# 📱 Pokédex App – Flutter
 
-A new Flutter project.
+Este projeto é uma aplicação simples feita com Flutter que consome a [PokéAPI](https://pokeapi.co/) para exibir uma lista de Pokémons e gerar um QR Code com o link da Pokédex oficial.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Tela de login simulada
+- Consumo de API REST
+- Lista com nome e imagem dos 10 primeiros Pokémons
+- Geração de QR Code com link para a Pokédex
+- Interface moderna com tema escuro (Dark Mode)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧪 Tecnologias utilizadas
+
+- Flutter 3.x
+- Dart
+- HTTP (pacote `http`)
+- QR Code (pacote `qr_flutter`)
+
+---
+
+## 🖼️ Captura de tela
+
+> ![Screenshot](screenshot.png) <!-- Você pode adicionar um print futuramente -->
+
+---
+
+## ▶️ Como rodar o projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/pokedex_app.git
